@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cec</groupId>
-    <artifactId>restapijpa</artifactId>
+    <artifactId>api-jpa</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>restapijpa</name>
+    <name>api</name>
 
     <properties>
-        <projectName>springapijpa</projectName>
+        <projectName>api-jpa</projectName>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
