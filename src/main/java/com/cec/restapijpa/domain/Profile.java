@@ -11,11 +11,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-/**
- *
- * @author
- * x39538
- */
+
 @Entity
 @Table(name="profile")
 public class Profile implements Serializable {
