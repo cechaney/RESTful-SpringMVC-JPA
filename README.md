@@ -1,4 +1,4 @@
-restapiJPA
+A RESTful app using Spring MVC and JPA
 ============
 
 Base project for a Spring MVC RESTful API with JPA / MySQL / C3PO persistence
