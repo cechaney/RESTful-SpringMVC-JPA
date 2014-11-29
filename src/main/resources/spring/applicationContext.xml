@@ -21,7 +21,7 @@
         http://www.springframework.org/schema/data/jpa 
         http://www.springframework.org/schema/data/jpa/spring-jpa-1.0.xsd">
 
-    <context:property-placeholder location="classpath*:*.properties" />
+    <context:property-placeholder location="classpath:*.properties" />
 	
     <import resource="db.xml"/>
 
